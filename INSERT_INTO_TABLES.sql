@@ -8,8 +8,8 @@ INSERT INTO
 	CINEMA (CINEMA_NAME)
 VALUES 	
 	('PVR'),
-  ('INOX'),
-  ('CINEPOLIS');
+	('INOX'),
+	('CINEPOLIS');
 
 
 /*============================MOVIE============================*/;
@@ -18,10 +18,10 @@ INSERT INTO
 	MOVIE(MOVIE_NAME)
 VALUES 
 	('DASARA'),
-  ('AVATAR'),
-  ('SALAAR'),
-  ('DUNE'),
-  ('DEAD POOL');
+	('AVATAR'),
+	('SALAAR'),
+	('DUNE'),
+	('DEAD POOL');
 
 
 /*============================SHOW_TIME============================*/;
